@@ -1,0 +1,10 @@
+torch
+numpy
+pandas
+matplotlib
+joblib
+scikit-learn
+transformers
+protobuf 
+tiktoken
+blobfile
